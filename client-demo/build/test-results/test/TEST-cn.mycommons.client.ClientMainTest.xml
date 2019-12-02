@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cn.mycommons.client.ClientMainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-11-11T02:43:43" hostname="MAC0028.local" time="0.472">
+  <properties/>
+  <testcase name="testSssl" classname="cn.mycommons.client.ClientMainTest" time="0.472"/>
+  <system-out><![CDATA[verify s = www.baidu.com
+verify sslSession = [Session-1, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256]
+response = Response{protocol=http/1.1, code=200, message=OK, url=https://www.baidu.com/}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

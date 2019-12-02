@@ -1,0 +1,3 @@
+verify s = www.baidu.com
+Gverify sslSession = [Session-1, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256]
+Yresponse = Response{protocol=http/1.1, code=200, message=OK, url=https://www.baidu.com/}
